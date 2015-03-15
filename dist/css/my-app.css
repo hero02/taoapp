@@ -1,0 +1,85 @@
+#hero{
+    height:300px;
+    border-bottom:1px solid darkgreen;
+    margin-bottom:10px;
+}
+
+.center-pp{
+    text-align: center;
+    padding:10px 44px;
+    font-size:11pt;
+}
+
+#nav_logo{
+    width:35px;
+    margin-top: 12px;}
+
+.page{
+    background-color:#e0efdd;
+}
+
+#info{
+    margin:4em 0;
+    text-align: center;
+}
+
+.report{
+    margin-top:44px;
+    border-collapse: collapse;
+}
+
+.report #theader{
+    background-color:#234214;
+    color:white;
+}
+.report tr {
+    border-bottom:1px solid #e0efdd;
+    background-color:white;
+    text-align: center;
+}
+
+.report td {
+    padding:10px 0px;
+}
+ input{
+
+     width:100%;
+     margin:0 auto;
+    border:1px solid #a6ce95;
+    padding: 12px 6px;
+    font-size: 20pt;
+}
+
+.totalbox::before{
+    content:"TOTAL:" ;
+    border-right: 1px solid #a6ce95;
+    background-color: gold;
+    padding: 13px;
+}
+
+.totalbox{
+    border:1px solid #a6ce95;
+    padding: 10px 6px 8px 0px;
+    font-size: 20pt;
+    background-color: white;
+    overflow: hidden;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+}
+
+.clear{
+    clear:both;
+    top:20px;
+}
+
+/*color*/
+
+.main-color{
+    color:#234214;
+}
